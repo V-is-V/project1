@@ -1,0 +1,25 @@
+# IDE files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# dependencies
+node_modules
+start-here-guidelines
+start
+
+# Log file
+.log
+
+
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
